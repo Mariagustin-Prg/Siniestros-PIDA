@@ -1,0 +1,5 @@
+ID_calle,Calificacion,Descripcion
+0,AVENIDA,Arteria cuya calzada tiene un ancho total de por lo menos trece (13) metros.
+1,GRAL PAZ,"Avenida General Paz, ambos sentidos. Incluye ingresos y egresos de las mismas, distribuidores y calle colectora."
+2,CALLE,Arteria cuya calzada tiene un ancho conprendido entre cinco (5) y trece (13) metros. Incluye paisaje.
+3,AUTOPISTA,"Via multicarril con calzadas para ambas manos separadas fisicamente, sin creces de nivel, con accesos controlados y sin ingreso desde los predios frentistas lindates. Incluye ingresos y egresos de las mismas y distribuciones."
