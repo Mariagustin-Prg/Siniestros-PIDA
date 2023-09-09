@@ -1,0 +1,11 @@
+id_Acusado,Calificacion,Descripción
+0,AUTO,"Vehiculo a motor destinado al transporte de personas, diferente de los motovehículos, y que tenga hasta nueve plazas."
+1,PASAJEROS,"Personas lesionadas que se encuentran dentro, descendiendo o ascendiendo de las unidades de autotransporte público de pasajeros/as y ómnibus de larga distancia."
+2,SD,Sin datos del vehículo participante.
+3,OBJETO FIJO,Colisión contra objetos inmóviles fijados de manera permanente o semipermanente o pérdidas de equilibrio de vehículos de dos ruedas que desencadenan la caída de sus ocupantes.
+4,CARGAS,"Vehículo a motor destiando al transporte de cargas, incluye camiones pesados (con o sin acoplado o semirremolque, etc., camión de recolección de residuos) y livianos (utilitarios, furgonetas, pick-ups, camioneta con caja de carga)."
+5,MOTO," Vehículo a motor no carrozado que incluye motocicleta, ciclomotor y cuatriciclo."
+6,MULTIPLE,Cuando participan má de un vehículo como contraparte de la víctima
+7,OTRO,Otros vehículos
+8,BICICLETA,"Vehículo con al menos dos ruedas, que generalmente es accionado por el esfuerzo muscular de las personas que lo ocupan, en particular mediante pedales o manivelas. Incluye bicicletas de pedaleo asistido y/o con motor."
+9,TREN, Equipo móvil que se desplaza exclusivamente sobre rieles.
