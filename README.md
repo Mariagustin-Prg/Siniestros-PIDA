@@ -25,13 +25,9 @@
 <h3 id='instalacion'><strong>Instalación</strong></h3>
 <p>Para poder acceder a este proyecto, debe tener <strong>GIT</strong> en su dispositivo.</p>
 <p>Navegue en su computadora a través de la terminal con:</p>
-```
-cd Escritorio/Mi-Carpeta/Mis-Proyectos
-```
+<code>cd Escritorio/Mi-Carpeta/Mis-Proyectos</code>
 <p>Dentro de la terminal con <strong>GIT</strong> instalado, ejecute el siguiente comando: </p>
-```git
-git clone https://github.com/Mariagustin-Prg/Siniestros-PIDA
-```
+<code>git clone https://github.com/Mariagustin-Prg/Siniestros-PIDA</code>
 <li>Si no tiene instalado <strong>GIT</strong>, acceda a su instalación a través de la <a href="https://git-scm.com/downloads">página de descarga de GIT</a>.</li>
 
 <p align=center><img src="./data/assets/logo@2x.png" height= 20></p>
@@ -41,13 +37,11 @@ git clone https://github.com/Mariagustin-Prg/Siniestros-PIDA
 <p>Puede acceder a este repositorio utilizando su editor de código favorito. Puede hacer su propio análisis con jupyter notebooks u otros archivos.</p>
 <p><em><strong>Recomendación:</strong> Cree un entorno virtual que contenga las librerías necesarias que se utilizan en este proyecto.</em></p>
 <p><em>Para poder crear un entorno virtual:</em></p>
-```git
-py -m venv entorno-virtual
-```
+<code>py -m venv entorno-virtual
+</code>
 <p><em>Para instalar las librerías necesarias:</em></p>
-```
-pip install -r requirements.txt
-```
+<code>pip install -r requirements.txt
+</code>
 <p>Las herramientas que se utilizan:</p>
 <p align=center><img src="./data/assets/jupyter-icon.png" height=60>  <img src="./data/assets/py-icon.png" height=60>  <img src="./data/assets/pandas-logo.png" height= 60>  <img src="./data/assets/plt-logo.png" height=40>  <img src="./data/assets/seaborn-icon.png" height=60></p>
 <hr>
