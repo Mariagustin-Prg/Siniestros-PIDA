@@ -44,10 +44,14 @@
 </code>
 <p>Las herramientas que se utilizan:</p>
 <p align=center><img src="./data/assets/jupyter-icon.png" height=60>  <img src="./data/assets/py-icon.png" height=60>  <img src="./data/assets/pandas-logo.png" height= 60>  <img src="./data/assets/plt-logo.png" height=40>  <img src="./data/assets/seaborn-icon.png" height=60></p>
+
+
 <hr>
 <h3 id="repositorio">Repositorio</h3>
+
 <p>En este repositorio hay diferentes archivos, a continuación describiremos que contiene cada uno.</p>
-<h4><em>.gitignore</em></h4>
+
+<h4><em><a href=".gitignore">.gitignore</a></em></h4>
 <p>En este archivo podemos encontrar el nombre de la carpeta del entorno virtual con el que se hizo este proyecto.</p>
 
 <h4><em><a href="Exploratory-Data-Analysis.ipynb">Exploratory-Data-Analysis.ipynb</a></em></h4>
